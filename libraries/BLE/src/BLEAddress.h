@@ -12,7 +12,6 @@
 #include <esp_gap_ble_api.h> // ESP32 BLE
 #include <string>
 
-
 /**
  * @brief A %BLE device address.
  *
